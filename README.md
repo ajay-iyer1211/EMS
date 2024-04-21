@@ -33,10 +33,10 @@
    - Go to network
    - Add Network
    - Add Network Manually
-   Network Name:Hardhat
-   RPC URL:http://127.0.0.1:8545/
-   Chain ID: 31337
-   Currency Symbol : ETH
+   *Network Name:Hardhat
+   *RPC URL:http://127.0.0.1:8545/
+   *Chain ID: 31337
+   *Currency Symbol : ETH
 7) Now go to vs code terminal and run hardhat by using following command
    ```shell
    npx hardhat node
