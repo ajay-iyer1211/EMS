@@ -1,0 +1,18 @@
+.table-container {
+    width: 95%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+    overflow-x: auto; /* Add horizontal scrollbar when content overflows */
+  }
+  
+ .table {
+    width: 100%; /* Make the table fill its container */
+  }
+  .table-container table thead {
+    width: 100%; /* Set the width of the table header to 100% */
+  }
+ .table tr:hover {
+    background-color: coral; /* Change background color on hover */
+  }
+  table {
+    border: 1px solid;
+  }
