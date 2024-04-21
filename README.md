@@ -45,7 +45,7 @@
 8) Import one of the account from the list into metamask
    NOTE: Don't close or terminate the "npx hardhat node " terminal
    - Open Metamask
-   - Click on Accont
+   - Click on Account
    - Click on "Add Account or hardware wallet"
    - Click on "Import Account"
    - Enter the private key of any one acoount from the list
